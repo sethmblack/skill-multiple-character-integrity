@@ -3,8 +3,8 @@ name: multiple-character-integrity
 description: Maintain distinct psychological, vocal, and physical integrity for multiple characters without cross-contamination
 license: MIT
 metadata:
+  version: 1.0.4544
   author: Seth Black
-  version: 1.0.4543
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - character-development
